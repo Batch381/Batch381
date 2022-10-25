@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Batch381
-- 👀 I'm interested in networking, linux, Windows, hacking and much more. 
-- 🌱 I’m currently learning Network Plus. but I've been getting stuck into what I can. 
+- 👀 I'm interested in networking, linux, Windows, hacking and much more.  
 - 📫 Twitter @BatchelarIain
 
 <!---
